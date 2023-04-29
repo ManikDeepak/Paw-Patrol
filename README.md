@@ -15,12 +15,14 @@ Overall, Paw Patrol is a user-friendly and comprehensive online pet boarding ser
 * ```git clone -b master https://github.com/ManikDeepak/Paw-Patrol.git```
 * ```cd Paw-Partol```
 * Once the app is cloned, the user will need to navigate to both the public and server folders to run the app. Provide the following instructions:
-``` cd public 
+``` 
+cd public 
  npm install
 npm start
 ```
 
- ``` cd server
+ ``` 
+ cd server
  npm install
  npm start
  ```
