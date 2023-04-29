@@ -17,11 +17,13 @@ Overall, Paw Patrol is a user-friendly and comprehensive online pet boarding ser
 * Once the app is cloned, the user will need to navigate to both the public and server folders to run the app. Provide the following instructions:
 ``` cd public 
  npm install
-npm start```
+npm start
+```
 
  ``` cd server
  npm install
- npm start```
+ npm start
+ ```
 
 
 ## Screenshots of the app
