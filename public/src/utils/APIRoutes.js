@@ -1,0 +1,9 @@
+export const host = "http://localhost:1986"
+export const registerRoute = `${host}/api/auth/register`
+export const loginRoute = `${host}/api/auth/login`
+export const passwordReset = `${host}/api/auth/resetPassword`
+export const appointmentRoute = `${host}/api/auth/appointment`
+export const getAppointmentRoute = `${host}/api/auth/getAppointment`
+export const emailRoute = `${host}/api/email`
+export const petRegisterRoute = `${host}/api/addpet`
+export const getMyPetsRoute = `${host}/api/getPets`

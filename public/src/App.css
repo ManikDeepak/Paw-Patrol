@@ -1,0 +1,28 @@
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #a09ba1 #fdfcfc;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #7772;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #7775;
+    border-radius: 10px;
+    border: 3px none #ffffff;
+  }
+  *::-webkit-scrollbar-thumb:hover {
+    background-color:#777;
+  }
+
+  *{
+    overflow-x:hidden;
+  }
