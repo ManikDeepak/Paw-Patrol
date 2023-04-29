@@ -9,9 +9,9 @@ Paw Patrol also provides users with access to a detailed record of their pet's a
 
 Overall, Paw Patrol is a user-friendly and comprehensive online pet boarding service that provides pet owners with peace of mind and convenient access to quality care for their furry friends.
 
-##Getting Started
+## Getting Started
 ***
-*Navigate to the "master" branch of the repository
+* Navigate to the "master" branch of the repository
 * ```git clone -b master https://github.com/ManikDeepak/Paw-Patrol.git```
 * ```cd Paw-Partol```
 * Once the app is cloned, the user will need to navigate to both the public and server folders to run the app. Provide the following instructions:
@@ -19,12 +19,12 @@ Overall, Paw Patrol is a user-friendly and comprehensive online pet boarding ser
 npm install
 npm start
 ```
-* ```cd server
+* ``` cd server
 npm install
 npm start
 ```
 
-##Screenshots of the app
+## Screenshots of the app
 
 > Home Page
 ![Home Page](https://github.com/ManikDeepak/Paw-Patrol/blob/352a51c4a9a2d4a312b8f9b781ee0074d7f5d1b4/screenshots/Home%20Page.png)
